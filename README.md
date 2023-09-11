@@ -44,5 +44,5 @@ Le but est de réaliser une étude préliminaire pour estimer s'il est pertinant
   - wordcloud
   - contractions
   - nltk
-  - yelpapi
   - streamlit
+  - yelpapi
