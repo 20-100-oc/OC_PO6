@@ -27,22 +27,25 @@ Le but est de réaliser une étude préliminaire pour estimer s'il est pertinant
 - Page web de présentation synthétique des résultats
 - Présentation PowerPoint
 
-
 ## Outils
-- Jupyter notebook
-- Streamlit
 - Python
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
-  - sklearn
-  - tensorflow
-  - Pillow
-  - pyLDAvis
-  - gensim
-  - wordcloud
-  - contractions
-  - nltk
-  - streamlit
-  - yelpapi
+- Git / Github
+- Jupyter notebook / Python IDE
+- Streamlit
+- PowerPoint
+  
+### Python : libraires additionnelles
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- sklearn
+- tensorflow
+- Pillow
+- pyLDAvis
+- gensim
+- wordcloud
+- contractions
+- nltk
+- streamlit
+- yelpapi
