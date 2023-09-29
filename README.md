@@ -31,8 +31,8 @@ Le but est de réaliser une étude préliminaire pour estimer s'il est pertinant
 - Python
 - Git / Github
 - Jupyter notebook / Python IDE
-- Streamlit
 - PowerPoint
+- Streamlit
   
 ### Python : libraires additionnelles
 - numpy
